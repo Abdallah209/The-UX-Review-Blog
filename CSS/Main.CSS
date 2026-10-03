@@ -966,13 +966,13 @@ Img {
     padding: 24px 48px;
     font-size: 24px;
     font-weight: 900;
-    box-shadow: 7px 7px #aaa;
+    box-shadow: 7px 7px #000;
     transition: .2s;
 }
 
 .join-button:hover {
     transform: translate(4px, 4px);
-    box-shadow: 3px 3px 0 #aaa;
+    box-shadow: 3px 3px 0 #000;
 }
 
 
