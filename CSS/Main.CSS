@@ -543,6 +543,17 @@ Img {
     color: #a63cff;
 }
 
+.trending-item:nth-child(2) div h4:hover {
+    color: #ff3434;
+}
+
+.trending-item:nth-child(3) div h4:hover {
+    color: #347cff;
+}
+
+.trending-item:nth-child(4) div h4:hover {
+    color: #a63cff;
+}
 .trending-item h4 {
     font-size: 18px;
     margin-bottom: 4px;
